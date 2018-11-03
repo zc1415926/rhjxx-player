@@ -1,0 +1,10 @@
+@font-face {
+    font-family: source-Sans-light;
+    src:url('../font/SourceHanSansCN-Light.otf');
+}
+
+@font-face {
+    /* font-properties */
+    font-family: source-Serif-bold;
+    src:url('../font/SourceHanSerifCN-Bold.otf');
+}
